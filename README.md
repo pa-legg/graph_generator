@@ -1,4 +1,4 @@
-# graph_generator
+# nodelink
 Small example project for generating and visualising a node-link graph
 
 Usage:
